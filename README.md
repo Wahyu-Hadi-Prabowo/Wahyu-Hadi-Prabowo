@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Wahyu Hadi Prabowo**.\
+Perkenalkan nama saya **Wahyu Hadi Prabowo**.
 
 Saya seorang Mahasiswa Semester VII di Universitas Aki
 
